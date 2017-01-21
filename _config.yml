@@ -1,16 +1,16 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Johnny Depp
+bio: A Man who travels the world writing codes
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Exercise of the course JOUR2106
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/hahahah
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
