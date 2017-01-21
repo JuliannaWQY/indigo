@@ -7,8 +7,8 @@ description: Exercise of the course JOUR2106
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/jekyll-logo-light-solid.png
+external-image: true
+picture: https://pbs.twimg.com/profile_images/461110955082924033/syKzaNQA.png
 
 url: https://juliannawqy.github.io/indigo/
 # your url: http://USERNAME.github.io
